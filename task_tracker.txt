@@ -1,0 +1,58 @@
+---------------------------------Date: 2018-03-06---------------------------------
+Meditation: NO
+drinking water - 3 litres: NO
+Breakfast: NO
+Reaching office by 9am: NO
+Headspace reminder 3 times: NO
+Workout - gym/rqt ball: NO
+Introspection: YES
+Reading a book before sleeping: NO
+------------------------------------------------------------------
+---------------------------------Date: 2018-03-18---------------------------------
+Meditation: NO
+drinking water in the morning: NO
+drinking water - 3 litres: NO
+Breakfast: YES
+Lunch for office: NO
+Reaching office by 9am: NO
+Headspace reminder 3 times: NO
+Workout - gym/rqt ball: NO
+Introspection: YES
+Reading a book before sleeping: YES
+------------------------------------------------------------------
+---------------------------------Date: 2018-03-27---------------------------------
+Meditation: NO
+drinking water in the morning: NO
+drinking water - 3 litres: NO
+Breakfast: NO
+Lunch for office: NO
+Reaching office by 9am: NO
+Headspace reminder 3 times: NO
+Workout - gym/rqt ball: NO
+Introspection: NO
+Reading a book before sleeping: NO
+------------------------------------------------------------------
+---------------------------------Date: 2018-04-16---------------------------------
+Meditation: NO
+drinking water in the morning: NO
+drinking water - 3 litres: NO
+Breakfast: NO
+Lunch for office: NO
+Reaching office by 9am: NO
+Headspace reminder 3 times: NO
+Workout - gym/rqt ball: NO
+Introspection: YES
+Reading a book before sleeping: NO
+------------------------------------------------------------------
+---------------------------------Date: 2018-06-20---------------------------------
+Meditation: YES
+drinking water in the morning: NO
+drinking water - 3 litres: NO
+Breakfast: YES
+Lunch for office: YES
+Reaching office by 9am: NO
+Headspace reminder 3 times: NO
+Workout - gym/rqt ball: NO
+Introspection: YES
+Reading a book before sleeping: YES
+------------------------------------------------------------------
